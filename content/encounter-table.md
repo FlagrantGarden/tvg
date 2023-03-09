@@ -1,7 +1,7 @@
 Encounter Tables
 ================
 
-*For when you don't have a better table close at hand.*
+_For when you don't have a better table close at hand._
 
 Dungeon Encounters
 ------------------

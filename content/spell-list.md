@@ -4,7 +4,7 @@
 Spell List
 ==========
 
-To roll a random spell, roll 1d6 for spell level, then 1d12 for the spell.If the d6 shows a result of 6 when rolling for a new spell at level-up, you may choose any spell you'd like.If the d6 shows a result of 6 when determining a random spell effect, roll two random spell effects.
+To roll a random spell, roll 1d6 for spell level, then 1d12 for the spell. If the d6 shows a result of 6 when rolling for a new spell at level-up, you may choose any spell you'd like. If the d6 shows a result of 6 when determining a random spell effect, roll two random spell effects.
 
 | 1d12 | Level 1 | Level 2 |
 | --- | --- | --- |
@@ -79,7 +79,7 @@ Confusion
 *Level 4, nearby, 12 turns.*You confuse 2d6 people and monsters, causing them to act randomly. When an affected NPC would act, roll 2d6 to see what they do.\
 - *2-5:* Attack the caster and allies.\
 - *6-8:* Stand baffled and inactive.\
-- *9-12:* Attack each other.Beings with 4 or more HD make a Saving Throw to remain unaffected.
+- *9-12:* Attack each other. Beings with 4 or more HD make a Saving Throw to remain unaffected.
 
 Conjure Elemental
 -----------------
@@ -247,7 +247,7 @@ Plant Growth
 Polymorph
 ---------
 
-*Level 4, self or nearby, indefinite.*You change yourself or a target into another creature. The changed being retains their own mind, Flesh, and Grit, but is otherwise the new creature.Cast upon yourself, the spell lasts a number of hours equal to your level. Cast upon another being, it lasts until dispelled.
+*Level 4, self or nearby, indefinite.*You change yourself or a target into another creature. The changed being retains their own mind, Flesh, and Grit, but is otherwise the new creature. Cast upon yourself, the spell lasts a number of hours equal to your level. Cast upon another being, it lasts until dispelled.
 
 Protection from Missiles
 ------------------------
@@ -297,7 +297,7 @@ Speak with Plants
 Sticks to Snakes
 ----------------
 
-*Level 4, nearby, 6 turns.*You turn 2d6 normal sticks into living snakes. Each snake has a 1-in-2 chance of being venomous. They follow your commands, but turn back into sticks when the spell ends (or when they're killed).The snakes have 2 Flesh, AC 3, AV 11, and ST 5. They inflict 1 damage when they hit.Any being that takes damage from a venomous snake must Save vs Death (with +2 ST).
+*Level 4, nearby, 6 turns.*You turn 2d6 normal sticks into living snakes. Each snake has a 1-in-2 chance of being venomous. They follow your commands, but turn back into sticks when the spell ends (or when they're killed).The snakes have 2 Flesh, AC 3, AV 11, and ST 5. They inflict 1 damage when they hit. Any being that takes damage from a venomous snake must Save vs Death (with +2 ST).
 
 Telekinesis
 -----------
@@ -323,7 +323,7 @@ Wall of Fire or Ice
 
 *Level 4, close, indefinite.*When cast, choose *Wall of Fire* or *Wall of Ice.*\
 - *Wall of Fire:* You conjure a wall of fire. Creatures with 3 or fewer HD cannot pass through it, and no creature can see through it. Any beings passing through the fire take 1d6 damage.\
-- *Wall of Ice:* You conjure a 6'-thick wall of ice. Creatures with 3 or fewer HD cannot affect the wall, but others may smash through it, taking 1d6 damage in the process.In either case, the wall is 20' high. You may create a straight wall up to 60' long, or a circular wall with a 15' radius. The wall lasts as long as you devote your entire concentration to it.
+- *Wall of Ice:* You conjure a 6'-thick wall of ice. Creatures with 3 or fewer HD cannot affect the wall, but others may smash through it, taking 1d6 damage in the process. In either case, the wall is 20' high. You may create a straight wall up to 60' long, or a circular wall with a 15' radius. The wall lasts as long as you devote your entire concentration to it.
 
 Wall of Stone or Iron
 ---------------------
