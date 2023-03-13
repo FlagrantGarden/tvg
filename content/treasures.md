@@ -1,10 +1,12 @@
-Treasures
-=========
+---
+title: "Treasures"
+summary: "For when you're not sure what to give them, and it doesn't matter that much anyway"
+weight: 10
+---
 
-*For when you're not sure what to give them, and it doesn't matter that much anyway.*
+_For when you're not sure what to give them, and it doesn't matter that much anyway._
 
-Hoard Roll
-----------
+## Hoard Roll
 
 - If the hoard is small, roll 1d4.
 
