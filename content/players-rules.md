@@ -6,9 +6,9 @@ weight: 10
 
 ## Attribute Checks
 
-If you have neither the necessary skill nor proper tools for the task, you cannot succeed. 
+If you have neither the necessary skill nor proper tools for the task, you cannot succeed.
 
-If you have either the necessary skill or proper tools, roll 1d20. If the result is equal to or less than your most appropriate Attribute, you succeed. 
+If you have either the necessary skill or proper tools, roll 1d20. If the result is equal to or less than your most appropriate Attribute, you succeed.
 
 If you have both the necessary skill and the proper tools, you automatically succeed.
 
@@ -18,23 +18,23 @@ To make a Save, roll 1d20. If the result is equal to or less than your Saving Th
 
 ## Grit and Flesh
 
-When you take damage, subtract the damage from your Grit. 
+When you take damage, subtract the damage from your Grit.
 
-If you have no Grit remaining, subtract the damage from your Flesh instead. 
+If you have no Grit remaining, subtract the damage from your Flesh instead.
 
 If you have no Flesh remaining, Save vs death. If you succeed, you pass out---wake with 1 Flesh after 1d6 Rounds. If you fail, you die.
 
 ## Rest and Healing
 
-If you have taken no Flesh damage and spend ten minutes resting, heal 1d6 Grit. If you have taken Flesh damage, you cannot heal Grit. 
+If you have taken no Flesh damage and spend ten minutes resting, heal 1d6 Grit. If you have taken Flesh damage, you cannot heal Grit.
 
 Flesh damage can only be healed by a surgeon. In most settlements, it takes 50gp and a full day of rest for each Flesh damage healed.
 
 ## Carrying Things
 
-You have 10 inventory slots. Your weapons, armor, and treasure take up slots when you carry them. 
+You have 10 inventory slots. Your weapons, armor, and treasure take up slots when you carry them.
 
-Weapons take up slots equal to the number of hands required to wield them. Armor takes up slots equal to half its maximum AC. Each slot can hold up to 200 coins and gems. 
+Weapons take up slots equal to the number of hands required to wield them. Armor takes up slots equal to half its maximum AC. Each slot can hold up to 200 coins and gems.
 
 Mundane adventuring gear takes up no slots---just be reasonable about how much you carry, please.
 
@@ -141,7 +141,7 @@ If a Magic-User studies a spell scroll with a mentor (as Specialist Helper) for 
 
 ## Getting XP
 
-You gain Experience Points (XP) for overcoming monsters and accumulating treasure. 
+You gain Experience Points (XP) for overcoming monsters and accumulating treasure.
 
 For each gold piece you bring from the wilds back to civilization, you gain 1 XP. Monsters give an amount of XP equal to 50 x their HD, whether killed or avoided.
 
