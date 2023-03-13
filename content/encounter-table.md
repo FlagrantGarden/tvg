@@ -1,10 +1,13 @@
-Encounter Tables
-================
+---
+title: "Encounter Table"
+summary: "For when you don't have a better table close at hand"
+weight: 10
+---
 
 _For when you don't have a better table close at hand._
 
-Dungeon Encounters
-------------------
+## Dungeon Encounters
+
 
 | 1d12 | Level 1 | Level 2 | Level 3 |
 | --- | --- | --- | --- |
@@ -36,8 +39,7 @@ Dungeon Encounters
 | 11. | Worm, Gray | Troll | Salamander, Frost |
 | 12. | Wraith | Worm, Gray | Vampire |
 
-Wilderness Encounters
----------------------
+## Wilderness Encounters
 
 | 1d12 | Desert | Forest | Grassland | Jungle |
 | --- | --- | --- | --- | --- |
@@ -69,8 +71,7 @@ Wilderness Encounters
 | 11. | Orc | Toad, Giant | Toad, Giant | Rat, Giant |
 | 12. | Phase Tiger | Troll | Troll | Vampire |
 
-Enemy Descriptions
-==================
+## Enemy Descriptions
 
 - Enemies have 1d6+HD Flesh, and HDd6 Grit.\
 - Enemy AV is equal to 10+HD (max. 19).\
