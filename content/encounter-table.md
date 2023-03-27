@@ -8,78 +8,79 @@ _For when you don't have a better table close at hand._
 
 ## Dungeon Encounters
 
+| 1d12 |      Level 1      |       Level 2        |      Level 3      |
+| ---- | ----------------- | -------------------- | ----------------- |
+| 1    | Bee, Giant Killer | Bat, Giant           | Ant, Giant        |
+| 2    | Beetle, Fire      | Baboon, Higher       | Ape, Albino       |
+| 3    | Centipede, Giant  | Mountain Lion        | Bugbear           |
+| 4    | Dwarf             | Elf                  | Panther           |
+| 5    | Goblin            | Ghoul                | Carcass Scavenger |
+| 6    | Green Slime       | Gnoll                | Doppelganger      |
+| 7    | Halfling          | Gray Ooze            | Gargoyle          |
+| 8    | Kobold            | Hobgoblin            | Gelatinous Cube   |
+| 9    | Morlock           | Lizardfolk           | Harpy             |
+| 10   | Orc               | Locust, Subterranean | Wererat           |
+| 11   | Rat, Giant        | Pixie                | Ochre Jelly       |
+| 12   | Skeleton          | Zombie               | Ogre              |
 
-| 1d12 | Level 1 | Level 2 | Level 3 |
-| --- | --- | --- | --- |
-| 1. | Bee, Giant Killer | Bat, Giant | Ant, Giant |
-| 2. | Beetle, Fire | Baboon, Higher | Ape, Albino |
-| 3\. | Centipede, Giant | Mountain Lion | Bugbear |
-| 4. | Dwarf | Elf | Panther |
-| 5\. | Goblin | Ghoul | Carcass Scavenger |
-| 6. | Green Slime | Gnoll | Doppelganger |
-| 7. | Halfling | Gray Ooze | Gargoyle |
-| 8. | Kobold | Hobgoblin | Gelatinous Cube |
-| 9. | Morlock | Lizardfolk | Harpy |
-| 10. | Orc | Locust, Subterranean | Wererat |
-| 11. | Rat, Giant | Pixie | Ochre Jelly |
-| 12. | Skeleton | Zombie | Ogre |
-
-| 1d12 | Level 4-5 | Level 6-7 | Level 8+ |
-| --- | --- | --- | --- |
-| 1. | Bear, Cave | Basilisk | Black Pudding |
-| 2. | Blink Dog | Bear | Chimera |
-| 3. | Cockatrice | Black Pudding | Demon Boar |
-| 4. | Gray Ooze | Dragon, White | Dragon, Black |
-| 5. | Hell Hound | Gorgon | Dragon, Blue |
-| 6. | Minotaur | Hydra | Dragon, Gold |
-| 7. | Mummy | Owl Bear | Dragon, Red |
-| 8. | Ochre Jelly | Phase Tiger | Giant, Stone |
-| 9. | Rust Monster | Salamander, Flame | Manticore |
-| 10. | Troll | Scorpion, Giant | Purple Worm |
-| 11. | Worm, Gray | Troll | Salamander, Frost |
-| 12. | Wraith | Worm, Gray | Vampire |
+| 1d12 |  Level 4-5   |     Level 6-7     |     Level 8+      |
+| ---- | ------------ | ----------------- | ----------------- |
+| 1    | Bear, Cave   | Basilisk          | Black Pudding     |
+| 2    | Blink Dog    | Bear              | Chimera           |
+| 3    | Cockatrice   | Black Pudding     | Demon Boar        |
+| 4    | Gray Ooze    | Dragon, White     | Dragon, Black     |
+| 5    | Hell Hound   | Gorgon            | Dragon, Blue      |
+| 6    | Minotaur     | Hydra             | Dragon, Gold      |
+| 7    | Mummy        | Owl Bear          | Dragon, Red       |
+| 8    | Ochre Jelly  | Phase Tiger       | Giant, Stone      |
+| 9    | Rust Monster | Salamander, Flame | Manticore         |
+| 10   | Troll        | Scorpion, Giant   | Purple Worm       |
+| 11   | Worm, Gray   | Troll             | Salamander, Frost |
+| 12   | Wraith       | Worm, Gray        | Vampire           |
 
 ## Wilderness Encounters
 
-| 1d12 | Desert | Forest | Grassland | Jungle |
-| --- | --- | --- | --- | --- |
-| 1. | Beetle, Fire | Bee, Giant Killer | Ant, Giant | Ant, Giant |
-| 2. | Blink Dog | Bear | Baboon, Higher | Bugbear |
-| 3. | Camel | Panther | Dragon, Green | Elephant |
-| 4. | Lion | Cockatrice | Giant, Hill | Giant, Fire |
-| 5. | Dragon, Red | Dragon, Blue | Halfling | Gnoll |
-| 6. | Goblin | Elf | Hippogriff | Gray Worm |
-| 7. | Hobgoblin | Hobgoblin | Merchant | Lizardfolk |
-| 8. | Brigand | Orc | Orc | Brigand |
-| 9. | Mummy | Spider, Giant Crab | Spider, Giant Black Widow | Merchant |
-| 10. | Ogre | Troll | Troll | Phase Tiger |
-| 11. | Scorpion, Giant | Unicorn | Weasel, Giant | Rat, Giant |
-| 12. | Snake, Giant Rattler | Wolf, Dire | Wyvern | Troll |
+| 1d12 |        Desert        |       Forest       |         Grassland         |   Jungle    |
+| ---- | -------------------- | ------------------ | ------------------------- | ----------- |
+| 1    | Beetle, Fire         | Bee, Giant Killer  | Ant, Giant                | Ant, Giant  |
+| 2    | Blink Dog            | Bear               | Baboon, Higher            | Bugbear     |
+| 3    | Camel                | Panther            | Dragon, Green             | Elephant    |
+| 4    | Lion                 | Cockatrice         | Giant, Hill               | Giant, Fire |
+| 5    | Dragon, Red          | Dragon, Blue       | Halfling                  | Gnoll       |
+| 6    | Goblin               | Elf                | Hippogriff                | Gray Worm   |
+| 7    | Hobgoblin            | Hobgoblin          | Merchant                  | Lizardfolk  |
+| 8    | Brigand              | Orc                | Orc                       | Brigand     |
+| 9    | Mummy                | Spider, Giant Crab | Spider, Giant Black Widow | Merchant    |
+| 10   | Ogre                 | Troll              | Troll                     | Phase Tiger |
+| 11   | Scorpion, Giant      | Unicorn            | Weasel, Giant             | Rat, Giant  |
+| 12   | Snake, Giant Rattler | Wolf, Dire         | Wyvern                    | Troll       |
 
-| 1d12 | Mountains | Rivers/Sea | Swamp | Villages |
-| --- | --- | --- | --- | --- |
-| 1. | Ape, Albino | Bee, Giant Killer | Crab, Giant | Boar |
-| 2. | Chimera | Crab, Giant | Boar | Dwarf |
-| 3. | Dragon, Red | Crocodile | Dragon, Black | Elf |
-| 4. | Dwarf | Harpy | Ghoul | Giant, Hill |
-| 5. | Giant, Hill | Piranha, Giant | Goblin | Goblin |
-| 6. | Giant, Stone | Merchant | Leech, Giant | Halfling |
-| 7. | Griffon | Hydra | Brigand | Brigand |
-| 8. | Brigand | Leech, Giant | Ogre | Merchant |
-| 9. | Merchant | Merfolk | Orc | Ogre |
-| 10. | Ogre | Stirge | Stirge | Orc |
-| 11. | Orc | Toad, Giant | Toad, Giant | Rat, Giant |
-| 12. | Phase Tiger | Troll | Troll | Vampire |
+| 1d12 |  Mountains   |    Rivers/Sea     |     Swamp     |  Villages   |
+| ---- | ------------ | ----------------- | ------------- | ----------- |
+| 1    | Ape, Albino  | Bee, Giant Killer | Crab, Giant   | Boar        |
+| 2    | Chimera      | Crab, Giant       | Boar          | Dwarf       |
+| 3    | Dragon, Red  | Crocodile         | Dragon, Black | Elf         |
+| 4    | Dwarf        | Harpy             | Ghoul         | Giant, Hill |
+| 5    | Giant, Hill  | Piranha, Giant    | Goblin        | Goblin      |
+| 6    | Giant, Stone | Merchant          | Leech, Giant  | Halfling    |
+| 7    | Griffon      | Hydra             | Brigand       | Brigand     |
+| 8    | Brigand      | Leech, Giant      | Ogre          | Merchant    |
+| 9    | Merchant     | Merfolk           | Orc           | Ogre        |
+| 10   | Ogre         | Stirge            | Stirge        | Orc         |
+| 11   | Orc          | Toad, Giant       | Toad, Giant   | Rat, Giant  |
+| 12   | Phase Tiger  | Troll             | Troll         | Vampire     |
 
 ## Enemy Descriptions
 
-- Enemies have 1d6+HD Flesh, and HDd6 Grit.\
-- Enemy AV is equal to 10+HD (max. 19).\
-- Enemy ST is equal to 5+HD (max. 19). If they have resistances or vulnerabilities, roll twice and take the better/worse when appropriate.\
-- By default, enemy attacks do 1d6 damage. Enemies of HD 1-4 have one attack, HD 5-9 have two attacks, HD 10-14 have three, and HD 15+ have four.\
+- Enemies have 1d6+HD Flesh, and HDd6 Grit.
+- Enemy AV is equal to 10+HD (max. 19).
+- Enemy ST is equal to 5+HD (max. 19). If they have resistances or vulnerabilities, roll twice and
+  take the better/worse when appropriate.
+- By default, enemy attacks do 1d6 damage. Enemies of HD 1-4 have one attack, HD 5-9 have two
+  attacks, HD 10-14 have three, and HD 15+ have four.
 - The "#" value is the number of that enemy appearing for a random encounter.
 
-| Name                      | HD  | #     | AC  | Special                                                                                                                                                                                                               |
+|           Name            | HD  |   #   | AC  |                                                                                                        Special                                                                                                        |
 | ------------------------- | --- | ----- | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Ant, Giant                | 4   | 2d4   | 6   |                                                                                                                                                                                                                       |
 | Ape, Albino               | 4   | 1d6   | 3   |                                                                                                                                                                                                                       |
@@ -165,7 +166,7 @@ _For when you don't have a better table close at hand._
 | Toad, Giant               | 2   | 1d4   | 2   | Camouflage, 1-in-2 chance to surprise. Long tongue (as short-range weapon). On hit, yanked to mouth and bitten.                                                                                                       |
 | Troll                     | 6   | 1d8   | 5   | Weak to fire and acid. Regenerate health after three Rounds without taking damage.                                                                                                                                    |
 | Unicorn                   | 4   | 1d6   | 7   | Teleport with rider (1/day). Will invariably run from all but a lawful, virtuous maiden.                                                                                                                              |
-| Vampire                   | 7   | 1d4   | 7   | +3 damage. Immune to charm, hold, and sleep. Unaffected by normal weapons. Can't be in sunlight. Can change into a cloud of gas or a bat at will. Can use *Charm Person* at will. You know, a vampire.                |
+| Vampire                   | 7   | 1d4   | 7   | +3 damage. Immune to charm, hold, and sleep. Unaffected by normal weapons. Can't be in sunlight. Can change into a cloud of gas or a bat at will. Can use _Charm Person_ at will. You know, a vampire.                |
 | Weasel, Giant             | 4   | 1d4   | 2   | On hit, latch onto victim for 2d4 damage each round.                                                                                                                                                                  |
 | Wererat                   | 3   | 1d8   | 0   | Can summon the aid of 1d3 Giant Rats (1/day). When dead, or after full moon sets, changes back to human form.                                                                                                         |
 | Wolf, Dire                | 4   | 1d4   | 3   |                                                                                                                                                                                                                       |

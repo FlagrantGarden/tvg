@@ -9,37 +9,39 @@ _These are just the most Vanilla ones I could find._
 
 ## Spell List
 
-To roll a random spell, roll 1d6 for spell level, then 1d12 for the spell. If the d6 shows a result of 6 when rolling for a new spell at level-up, you may choose any spell you'd like. If the d6 shows a result of 6 when determining a random spell effect, roll two random spell effects.
+To roll a random spell, roll 1d6 for spell level, then 1d12 for the spell. If the d6 shows a result
+of 6 when rolling for a new spell at level-up, you may choose any spell you'd like. If the d6 shows
+a result of 6 when determining a random spell effect, roll two random spell effects.
 
-| 1d12 | Level 1 | Level 2 |
-| --- | --- | --- |
-| 1 | Charm | Bless/Curse |
-| 2 | Cure/Cause Light Wounds | Detect Invisibility |
-| 3 | Detect Magic | Detect Thoughts |
-| 4 | Hold Portal | Dispel Magic |
-| 5 | Leap | Invisibility |
-| 6 | Light/Dark | Levitate |
-| 7 | Purify Food and Drink | Locate Object |
-| 8 | Read Scripts | Lock/Unlock |
-| 9 | Sleep | Phantasmal Force |
-| 10 | Shuffle | Pit |
-| 11 | Turn Undead | Speak with Animals |
-| 12 | Wizard Mark | Web |
+| 1d12 |         Level 1         |       Level 2       |
+| ---- | ----------------------- | ------------------- |
+| 1    | Charm                   | Bless/Curse         |
+| 2    | Cure/Cause Light Wounds | Detect Invisibility |
+| 3    | Detect Magic            | Detect Thoughts     |
+| 4    | Hold Portal             | Dispel Magic        |
+| 5    | Leap                    | Invisibility        |
+| 6    | Light/Dark              | Levitate            |
+| 7    | Purify Food and Drink   | Locate Object       |
+| 8    | Read Scripts            | Lock/Unlock         |
+| 9    | Sleep                   | Phantasmal Force    |
+| 10   | Shuffle                 | Pit                 |
+| 11   | Turn Undead             | Speak with Animals  |
+| 12   | Wizard Mark             | Web                 |
 
-| 1d12 | Level 3 | Level 4 | Level 5 |
-| --- | --- | --- | --- |
-| 1 | Alter Time | Confusion | Animate Dead |
-| 2 | Create Food and Drink | Cure/Cause Serious Wounds | Cloudkill |
-| 3 | Crystal Ball | Dimensional Portal | Commune |
-| 4 | Cure/Cause Disease | Hallucinatory Terrain | Conjure Elemental |
-| 5 | Fireball | Mass Morph | Enervate |
-| 6 | Fly | Neutralize Poison | Hold Creature |
-| 7 | Hold Person | Plant Growth | Insect Plague |
-| 8 | Invisibility Sphere | Polymorph | Passwall |
-| 9 | Lightning Bolt | Speak with Plants | Raise Dead |
-| 10 | Protection from Missiles | Sticks to Snakes | Telekinesis |
-| 11 | Remove Curse | Wall of Fire or Ice | Teleport |
-| 12 | Water Breathing | Wizard Eye | Wall of Stone or Iron |
+| 1d12 |         Level 3          |          Level 4          |        Level 5        |
+| ---- | ------------------------ | ------------------------- | --------------------- |
+| 1    | Alter Time               | Confusion                 | Animate Dead          |
+| 2    | Create Food and Drink    | Cure/Cause Serious Wounds | Cloudkill             |
+| 3    | Crystal Ball             | Dimensional Portal        | Commune               |
+| 4    | Cure/Cause Disease       | Hallucinatory Terrain     | Conjure Elemental     |
+| 5    | Fireball                 | Mass Morph                | Enervate              |
+| 6    | Fly                      | Neutralize Poison         | Hold Creature         |
+| 7    | Hold Person              | Plant Growth              | Insect Plague         |
+| 8    | Invisibility Sphere      | Polymorph                 | Passwall              |
+| 9    | Lightning Bolt           | Speak with Plants         | Raise Dead            |
+| 10   | Protection from Missiles | Sticks to Snakes          | Telekinesis           |
+| 11   | Remove Curse             | Wall of Fire or Ice       | Teleport              |
+| 12   | Water Breathing          | Wizard Eye                | Wall of Stone or Iron |
 
 ## Spell Descriptions
 
@@ -54,7 +56,8 @@ _Level 3, nearby, 3 turns._ When cast, choose _Fast_ or _Slow._
 
 _Level 5, nearby, until dawn._
 
-Create 1d6 skeletons or zombies from dead bodies. They mostly follow your orders until the next dawn, when they become merely dead again.
+Create 1d6 skeletons or zombies from dead bodies. They mostly follow your orders until the next
+dawn, when they become merely dead again.
 
 ### Bless/Curse
 
@@ -69,25 +72,30 @@ When cast, choose _Bless_ or _Curse._
 
 _Level 1, nearby, until dispelled._
 
-Affects sapient creatures of human size or smaller. Target makes a Saving Throw or treats the caster as a good friend (with all the responsibility that implies).
+Affects sapient creatures of human size or smaller. Target makes a Saving Throw or treats the
+caster as a good friend (with all the responsibility that implies).
 
 ### Cloudkill
 
 _Level 5, close, 6 turns._
 
-A cloud of poisonous vapors appears where you cast it and moves slowly away from the caster (unless affected by wind). Any creatures with 5 or fewer HD caught in the cloud must make a Saving Throw or die.
+A cloud of poisonous vapors appears where you cast it and moves slowly away from the caster (unless
+affected by wind). Any creatures with 5 or fewer HD caught in the cloud must make a Saving Throw or
+die.
 
 ### Commune
 
 _Level 5, caster, 1 turn._
 
-Higher beings grant answers to three questions you ask. Try not to bother them by casting the spell too often.
+Higher beings grant answers to three questions you ask. Try not to bother them by casting the spell
+too often.
 
 ### Confusion
 
 _Level 4, nearby, 12 turns._
 
-You confuse 2d6 people and monsters, causing them to act randomly. When an affected NPC would act, roll 2d6 to see what they do.\
+You confuse 2d6 people and monsters, causing them to act randomly. When an affected NPC would act,
+roll 2d6 to see what they do.\
 
 - _2-5:_ Attack the caster and allies.
 - _6-8:_ Stand baffled and inactive.
@@ -97,7 +105,9 @@ You confuse 2d6 people and monsters, causing them to act randomly. When an affec
 
 _Level 5, nearby, until dispelled._
 
-You summon an HD 10 elemental (of any kind) and bind it to your command. The elemental obeys you only when you concentrate on it---if you cease to concentrate, it does whatever it sees fit to do. It seems less than thrilled about being bound.
+You summon an HD 10 elemental (of any kind) and bind it to your command. The elemental obeys you
+only when you concentrate on it---if you cease to concentrate, it does whatever it sees fit to do.
+It seems less than thrilled about being bound.
 
 ### Create Food and Drink
 
@@ -163,25 +173,30 @@ The target can hear the surface thoughts of those around them, as if the thought
 
 _Level 4, close, 1 round._
 
-You instantly transfer the target from its current location to any known spot within 360 feet. If the location is already occupied, the spell fails.
+You instantly transfer the target from its current location to any known spot within 360 feet. If
+the location is already occupied, the spell fails.
 
 ### Dispel Magic
 
 _Level 2, close, permanent._
 
-You end an ongoing spell effect cast on a creature or object. If the spell effect is your level or lower, it ends automatically. If the spell effect is higher level, roll 1d6 plus your level over the level of the spell effect to succeed.
+You end an ongoing spell effect cast on a creature or object. If the spell effect is your level or
+lower, it ends automatically. If the spell effect is higher level, roll 1d6 plus your level over
+the level of the spell effect to succeed.
 
 ### Enervate
 
 _Level 5, sight, indefinite._
 
-The target makes a Saving Throw. If they fail, they are unable to speak, cast spells, understand language, or communicate. Lasts until dispelled.
+The target makes a Saving Throw. If they fail, they are unable to speak, cast spells, understand
+language, or communicate. Lasts until dispelled.
 
 ### Fireball
 
 _Level 3, sight, instantaneous._
 
-You throw a ball of fire that detonates on impact, dealing 1d6 fire damage per caster level to everything nearby (Save for half damage).
+You throw a ball of fire that detonates on impact, dealing 1d6 fire damage per caster level to
+everything nearby (Save for half damage).
 
 ### Fly
 
@@ -193,19 +208,23 @@ You can fly and hover effortlessly.
 
 _Level 4, sight, indefinite._
 
-You make a patch of terrain look, sound, and smell like some other sort of terrain. Affects up to 1 room-sized area per caster level. The illusion ends when an intelligent being attempts to touch the illusion, or when dispelled.
+You make a patch of terrain look, sound, and smell like some other sort of terrain. Affects up to 1
+room-sized area per caster level. The illusion ends when an intelligent being attempts to touch the
+illusion, or when dispelled.
 
 ### Hold Creature
 
 _Level 5, nearby, 1d6 plus caster level turns._
 
-You hold up to 1d6 non-sapient beings completely immobile. Affected beings may make a Saving Throw as a free action at the beginning of each of their turns to break free of the spell.
+You hold up to 1d6 non-sapient beings completely immobile. Affected beings may make a Saving Throw
+as a free action at the beginning of each of their turns to break free of the spell.
 
 ### Hold Person
 
 _Level 3, nearby, 9 turns._
 
-You hold up to 1d6 sapient beings completely immobile. Affected beings may make a Saving Throw as a free action at the beginning of each of their turns to break free of the spell.
+You hold up to 1d6 sapient beings completely immobile. Affected beings may make a Saving Throw as a
+free action at the beginning of each of their turns to break free of the spell.
 
 ### Hold Portal
 
@@ -217,7 +236,8 @@ You secure a door, gate, window or other mundane portal as if it were securely c
 
 _Level 5, sight, 1 day._
 
-Only works outdoors. You gather storm of insects, approximately 20' in diameter, that goes wherever you direct it. Any creature of HD 2 or fewer caught in the cloud attempts to flee in terror.
+Only works outdoors. You gather storm of insects, approximately 20' in diameter, that goes wherever
+you direct it. Any creature of HD 2 or fewer caught in the cloud attempts to flee in terror.
 
 ### Invisibility
 
@@ -229,7 +249,8 @@ Target being or object becomes invisible. Lasts until dispelled or the target ma
 
 _Level 3, sight, 1 turn per caster level._
 
-As the _Invisibility_ spell, except all beings and objects within 10' of the target also become invisible (the invisibility sphere travels with the target).
+As the _Invisibility_ spell, except all beings and objects within 10' of the target also become
+invisible (the invisibility sphere travels with the target).
 
 ### Leap
 
@@ -256,28 +277,33 @@ When cast, choose _Light_ or _Dark._
 
 _Level 3, nearby, instantaneous._
 
-You produce a 10'-wide bolt of lightning, striking out from your fingertip to a distance of 60'. Anyone in its path takes 1d6 damage per caster level (Save for half damage).
+You produce a 10'-wide bolt of lightning, striking out from your fingertip to a distance of 60'.
+Anyone in its path takes 1d6 damage per caster level (Save for half damage).
 
 ### Lock/Unlock
 
-_Level 2, touch, instantaneous._ 
+_Level 2, touch, instantaneous._
 
 When cast, choose _Lock_ or _Unlock_.
 
-- _Lock:_ Touched door, gate, window, or other mundane portal remains magically sealed until dispelled or _Unlock_ is cast upon it.\
-- _Unlock:_ Touched door, gate, window, or other mundane portal unlocks, including those held or locked through magical means.
+- _Lock:_ Touched door, gate, window, or other mundane portal remains magically sealed until
+  dispelled or _Unlock_ is cast upon it.\
+- _Unlock:_ Touched door, gate, window, or other mundane portal unlocks, including those held or
+  locked through magical means.
 
 ### Passwall
 
 _Level 5, nearby, 1 turn per level._
 
-You create a passage through a wooden, plaster, or stone wall. The passage is up to 10' deep, and up to 5' across.
+You create a passage through a wooden, plaster, or stone wall. The passage is up to 10' deep, and
+up to 5' across.
 
 ### Phantasmal Force
 
 _Level 2, nearby, indefinite._
 
-You conjure a realistic illusion, visible to everyone as if it were really there. The illusion disappears if touched, but a viewer who fully believes it is real can be affected by it.
+You conjure a realistic illusion, visible to everyone as if it were really there. The illusion
+disappears if touched, but a viewer who fully believes it is real can be affected by it.
 
 ### Pit
 
@@ -289,13 +315,16 @@ You open a pit in the ground, 10' square, and a number of feet deep equal to 5 t
 
 _Level 4, nearby, indefinite._
 
-You make up to 400 square feet of ground suddenly grow into an impassable brush of thorns and vines. Lasts until dispelled.
+You make up to 400 square feet of ground suddenly grow into an impassable brush of thorns and
+vines. Lasts until dispelled.
 
 ### Polymorph
 
 _Level 4, self or nearby, indefinite._
 
-You change yourself or a target into another creature. The changed being retains their own mind, Flesh, and Grit, but is otherwise the new creature. Cast upon yourself, the spell lasts a number of hours equal to your level. Cast upon another being, it lasts until dispelled.
+You change yourself or a target into another creature. The changed being retains their own mind,
+Flesh, and Grit, but is otherwise the new creature. Cast upon yourself, the spell lasts a number of
+hours equal to your level. Cast upon another being, it lasts until dispelled.
 
 ### Protection from Missiles
 
@@ -313,13 +342,16 @@ You purify enough food and water for up to a dozen people, removing all spoilage
 
 _Level 5, sight, indefinite._
 
-You raise the relatively fresh corpse of a sentient being from the dead. The one that would be raised must make a Saving Throw or remain dead. If successfully raised, it will take a week or two for the formerly-dead to reacclimate to life.
+You raise the relatively fresh corpse of a sentient being from the dead. The one that would be
+raised must make a Saving Throw or remain dead. If successfully raised, it will take a week or two
+for the formerly-dead to reacclimate to life.
 
 ### Read Scripts
 
 _Level 1, reading distance, 6 turns._
 
-You can read directions, instructions, and similar writing in unfamiliar or even unknown languages. Useful for reading magical writing (in scrolls and spellbooks).
+You can read directions, instructions, and similar writing in unfamiliar or even unknown languages.
+Useful for reading magical writing (in scrolls and spellbooks).
 
 ### Remove Curse
 
@@ -337,13 +369,16 @@ You instantly switch places with any object or being you can see.
 
 _Level 1, nearby, 6 turns._
 
-Roll 2d6 and choose a number of beings whose HD add up to the result---you put them all to sleep for one hour (or until disturbed). You can only affect beings with HD equal to or less than your level.
+Roll 2d6 and choose a number of beings whose HD add up to the result---you put them all to sleep
+for one hour (or until disturbed). You can only affect beings with HD equal to or less than your
+level.
 
 ### Speak with Animals
 
 _Level 2, self, 6 turns._
 
-You can speak with animals nearby. They generally won't attack you, and there is a chance the animals will assist you (if you're kind to them).
+You can speak with animals nearby. They generally won't attack you, and there is a chance the
+animals will assist you (if you're kind to them).
 
 ### Speak with Plants
 
@@ -355,7 +390,10 @@ You can speak with plants nearby. They obey your commands as much as they can.
 
 _Level 4, nearby, 6 turns._
 
-You turn 2d6 normal sticks into living snakes. Each snake has a 1-in-2 chance of being venomous. They follow your commands, but turn back into sticks when the spell ends (or when they're killed).The snakes have 2 Flesh, AC 3, AV 11, and ST 5. They inflict 1 damage when they hit. Any being that takes damage from a venomous snake must Save vs Death (with +2 ST).
+You turn 2d6 normal sticks into living snakes. Each snake has a 1-in-2 chance of being venomous.
+They follow your commands, but turn back into sticks when the spell ends (or when they're
+killed).The snakes have 2 Flesh, AC 3, AV 11, and ST 5. They inflict 1 damage when they hit. Any
+being that takes damage from a venomous snake must Save vs Death (with +2 ST).
 
 ### Telekinesis
 
@@ -367,7 +405,8 @@ You can move objects with your mind---up to 20 pounds per level.
 
 _Level 5, touch, instantaneous._
 
-You transport yourself or another being to a destination you know. Success depends on how well you know the target location.
+You transport yourself or another being to a destination you know. Success depends on how well you
+know the target location.
 
 - If you have only seen the destination in a picture or on a map, you have a 1-in-3 chance of success.
 - If you have seen but not studied the destination, you have a 5-in-6 chance of success.
@@ -378,7 +417,8 @@ A failure results in death for the one who would be teleported.
 
 _Level 1, nearby, 6 turns._
 
-2d6 HD of undead flee for 1 hour. Only affects undead with HD equal to or less than the caster's level. If the roll exceeds the total HD of undead affected, they are destroyed instead.
+2d6 HD of undead flee for 1 hour. Only affects undead with HD equal to or less than the caster's
+level. If the roll exceeds the total HD of undead affected, they are destroyed instead.
 
 ### Wall of Fire or Ice
 
@@ -386,8 +426,12 @@ _Level 4, close, indefinite._
 
 When cast, choose _Wall of Fire_ or _Wall of Ice._
 
-- _Wall of Fire:_ You conjure a wall of fire. Creatures with 3 or fewer HD cannot pass through it, and no creature can see through it. Any beings passing through the fire take 1d6 damage.
-- _Wall of Ice:_ You conjure a 6'-thick wall of ice. Creatures with 3 or fewer HD cannot affect the wall, but others may smash through it, taking 1d6 damage in the process. In either case, the wall is 20' high. You may create a straight wall up to 60' long, or a circular wall with a 15' radius. The wall lasts as long as you devote your entire concentration to it.
+- _Wall of Fire:_ You conjure a wall of fire. Creatures with 3 or fewer HD cannot pass through it,
+  and no creature can see through it. Any beings passing through the fire take 1d6 damage.
+- _Wall of Ice:_ You conjure a 6'-thick wall of ice. Creatures with 3 or fewer HD cannot affect the
+  wall, but others may smash through it, taking 1d6 damage in the process. In either case, the wall
+  is 20' high. You may create a straight wall up to 60' long, or a circular wall with a 15' radius.
+  The wall lasts as long as you devote your entire concentration to it.
 
 ### Wall of Stone or Iron
 
@@ -408,16 +452,20 @@ Target can breathe underwater.
 
 _Level 2, close, 8 hours._
 
-You fill a 10' x 10' x 20' area with fibrous, sticky webs. Any human-sized creatures without fire and blade will require 2d6 turns to break through. Larger creatures, or those with fire and blade, will need half as long.
+You fill a 10' x 10' x 20' area with fibrous, sticky webs. Any human-sized creatures without fire
+and blade will require 2d6 turns to break through. Larger creatures, or those with fire and blade,
+will need half as long.
 
 ### Wizard Eye
 
 _Level 4, sight, 6 turns._
 
-You conjure an invisible, magical "eye" that can move a maximum of 240' away from you. It floats along as you direct it. You can choose at any time to see what it sees.
+You conjure an invisible, magical "eye" that can move a maximum of 240' away from you. It floats
+along as you direct it. You can choose at any time to see what it sees.
 
 ### Wizard Mark
 
 _Level 1, self, instantaneous._
 
-You shoot a stream of octarine paint from your index finger. Only you can see the paint, and you can see it from any distance, even through solid objects. The paint lasts until dispelled.
+You shoot a stream of octarine paint from your index finger. Only you can see the paint, and you
+can see it from any distance, even through solid objects. The paint lasts until dispelled.
